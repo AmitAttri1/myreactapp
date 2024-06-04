@@ -38,7 +38,7 @@ const WelcomePage = () => {
 
   return (
     <div className="welcome-container">
-      <h1>Welcome</h1>
+      <h1>Welcome........</h1>
       
       <p>Employee Name: {employeeName}</p>
       <button onClick={handleBack}>LogOut</button> {/* Back button */}
